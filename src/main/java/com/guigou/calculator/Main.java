@@ -1,4 +1,4 @@
-package calculator;
+package com.guigou.calculator;
 
 public class Main {
 
